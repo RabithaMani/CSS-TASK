@@ -1,0 +1,264 @@
+.kabi{
+    font-size: 40px;
+    margin-left: 150px;
+    padding: 70px;
+    
+
+}
+.para1{
+    color:white;
+    background-color:#7fc0ca ;
+    font-size: 20px;
+    padding-left:150px;
+    padding: 70px;
+}
+.paragraph{
+    font-size: 40px;
+    margin-left: 150px;
+}
+.para2{
+    margin-left: 150px;
+    line-height: 1.6;
+}
+.button{
+    margin-left: 150px;
+    padding: 23px 40px;
+    border:2px;
+    border-radius: 30px;
+    font-size: 20px;
+}
+.button:hover{
+    background-color: rgb(33, 31, 31);
+    color: whitesmoke;
+    font-weight:bolder ;
+}
+.para3{
+text-align: center;
+font-size: 2.25rem;
+font-weight: lighter;
+}
+.para4{
+    text-align: center;
+    font-size: 1.25rem;
+
+}
+.img1{
+    width: 380px;
+    height: 340px;
+    border: 2px;
+    margin: 5px;
+    cursor: pointer;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+.main-box{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Montserrat,sans-serif !important;
+}
+.box{
+    border: 1px solid white;
+    background-color: whitesmoke;
+     width: 30%;
+     color: black;
+     box-shadow: white;
+     margin-bottom: 40px;
+    margin-left: 20px;
+    padding: 20px;
+}
+.head{
+     font-size: 1.25rem;
+     line-height: 1.2;
+     margin-top: 20px;
+     margin-bottom:20px;
+     text-transform: uppercase;
+     font-weight: lighter;
+
+}
+.main{
+     font-size:1.125rem;
+     line-height: 1.2;
+     margin-top: 20px;
+     margin-bottom: 2px;
+     font-weight: lighter;
+     color:#96c3ca;
+     text-transform: uppercase;
+     letter-spacing: 2px;
+
+    
+}
+.para5{
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 1.125rem;
+    margin: 20px 0 0;
+}
+.div3{
+    background-color: rgb(36, 35, 35);
+    padding: 40px 80px 40px 80px;
+    margin-top: 4 0px;
+}
+.say{
+    color: white;
+    padding-left: 30px;
+}
+.our{
+    text-align: center;
+    font-size:2.125rem;
+    font-weight: lighter;
+
+}
+.rabi{
+    text-align:center;
+    font-size:1.125rem;
+}
+.rabi2{
+    text-align:center;
+    font-size:1.125rem;
+}
+.rabi3{
+    text-align:center;
+    font-size:1.125rem;
+}
+.pic{
+    width:400px;
+    height:300px;
+    border: 2px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.pic1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+  
+}   
+.mainbox{
+    background-color: rgb(29, 28, 28);
+    color: whitesmoke;
+    margin-top: 50px;
+} 
+.footer{
+
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.sf1{
+    width: 30%;
+    padding-left: 100px;
+}
+.sf2{
+    width: 20%;
+}
+.sf3{
+    padding-left: 0%;
+}
+.source{
+    font-size: 2.25rem;
+    line-height: 1.1;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-weight: lighter;
+   
+}
+.ram{
+    margin: 90px 0 0;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    font-size: 1.125rem;
+
+}
+.h5{
+    margin-bottom: 0;
+    margin-top: 20px;
+    font-size: 1.25rem;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+.ft{
+    margin:20px 0 0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 1.125rem;
+}
+.container{
+    margin-top: 200px;
+    font-size: 1.125rem;
+
+}
+
+
+.social{
+    font-size: 1.25rem;
+}
+.mail{
+    margin-bottom:  20px;
+    
+}
+.span{
+    font-size:1.125rem;
+
+    
+}
+.bxl-facebook{
+    font-size: 40px;
+    color: #7fc0ca;
+
+}
+.bxl-twitter{
+    font-size: 40px;
+    color: #7fc0ca;
+}
+.bxl-instagram{
+    font-size: 40px;
+    color:#7fc0ca;
+}
+.man{
+    margin-top: 170px;
+}
+.day{
+    color: #b3b3b3;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin: 30px 0 0;
+    font-size: 0.875rem;
+}
+.foot{
+    text-align :center;
+    margin-top: 90px;
+    font-size:0.875rem;
+}
+.linkpara{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 0.875rem;
+}
+.link{
+    color: #c7e5ea;
+    cursor: pointer;
+}
+.link:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
